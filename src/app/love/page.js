@@ -130,7 +130,7 @@ export default function ButtonDestructive() {
                     </Text>
                   </Box>
                   <Box>
-                    <Link href="https://chakra-ui.com" isExternal>
+                    <Link href="https://github.com/bonusofficial/Valentine" isExternal>
                       GitHub <ExternalLinkIcon mx="2px" />
                     </Link>
                   </Box>
